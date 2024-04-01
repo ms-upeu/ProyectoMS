@@ -3,7 +3,7 @@ Paso 1: CRUD API Rest con Spring Boot
 
 Ejecutar:
 
-http://localhost:8080/categoria
+http://localhost:8080/doc/swagger-ui/index.html
 
 ## Comandos iniciales de git
 
@@ -15,11 +15,11 @@ Actualizar rama principal:
 
 Crea a partir de la rama actual:
 
-	git branch 02-HolaMundo
+	git branch 02-doc-con-swagger
 
 
 Para subir al remoto:
 
-	git push origin 02-HolaMundo
+	git push origin 02-doc-con-swagger
 
 
